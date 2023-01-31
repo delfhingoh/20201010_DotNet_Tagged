@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding">
+  <SOAP-ENV:Body xmlns:lle="http://www.xyz.org/lifelogevents">
+    <lle:Event>
+      <lle:eventID>ID1</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>Hi Hougang!</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3708</lle:Lat>
+          <lle:Longi>103.8925</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 6:19:39 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID2</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>ff</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3919</lle:Lat>
+          <lle:Longi>103.8955</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 6:21:48 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID3</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>At TPY!</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3354</lle:Lat>
+          <lle:Longi>103.8497</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 7:07:08 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID4</lle:eventID>
+      <lle:Facebook>
+        <lle:Text>Was an alumni here!</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3777</lle:Lat>
+          <lle:Longi>103.8825</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 7:07:17 PM</lle:DateTime>
+      </lle:Facebook>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID5</lle:eventID>
+      <lle:Facebook>
+        <lle:Text>AT Sheng Siong!</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.4482</lle:Lat>
+          <lle:Longi>103.8326</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 7:13:09 PM</lle:DateTime>
+      </lle:Facebook>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID6</lle:eventID>
+      <lle:Facebook>
+        <lle:Text>My friend works here!</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.2888</lle:Lat>
+          <lle:Longi>103.8165</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 7:37:14 PM</lle:DateTime>
+      </lle:Facebook>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID7</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>See ya friend!</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.2963</lle:Lat>
+          <lle:Longi>103.8203</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 7:37:22 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID8</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>wah such a nice school!</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3428</lle:Lat>
+          <lle:Longi>103.8433</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 7:39:10 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID9</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>Hehe</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.4482</lle:Lat>
+          <lle:Longi>103.8326</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 7:51:34 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID10</lle:eventID>
+      <lle:Facebook>
+        <lle:Text>I like the food?</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.4465</lle:Lat>
+          <lle:Longi>103.8187</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 7:51:40 PM</lle:DateTime>
+      </lle:Facebook>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID11</lle:eventID>
+      <lle:Facebook>
+        <lle:Text>At Boon Lay</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3445</lle:Lat>
+          <lle:Longi>103.7113</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 8:20:02 PM</lle:DateTime>
+      </lle:Facebook>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID12</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>i can sleep here?</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3217</lle:Lat>
+          <lle:Longi>103.6993</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 8:20:09 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID13</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>Tweet</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3363</lle:Lat>
+          <lle:Longi>103.6876</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 8:20:23 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID14</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>fish here ah</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3986</lle:Lat>
+          <lle:Longi>103.7233</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 8:22:03 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID15</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>fly aeroplane</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3844</lle:Lat>
+          <lle:Longi>103.7084</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 8:22:08 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID16</lle:eventID>
+      <lle:Facebook>
+        <lle:Text>I climb moutain here</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3769</lle:Lat>
+          <lle:Longi>103.8048</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>6/10/2020 8:23:39 PM</lle:DateTime>
+      </lle:Facebook>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID17</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>swim here can?</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.402</lle:Lat>
+          <lle:Longi>103.8016</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 8:23:51 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID18</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>wah safari ah</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.4005</lle:Lat>
+          <lle:Longi>103.7885</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 8:24:10 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID19</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>duck</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.398</lle:Lat>
+          <lle:Longi>103.8656</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 8:29:37 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID20</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>Hu</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3779</lle:Lat>
+          <lle:Longi>103.7631</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 10:29:26 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID21</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>Hi</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.356</lle:Lat>
+          <lle:Longi>103.8792</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>24/10/2020 11:06:08 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

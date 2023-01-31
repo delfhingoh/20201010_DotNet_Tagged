@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<accounts>
+  <account>
+    <username>admin</username>
+    <password>123</password>
+    <remember>1</remember>
+    <securityAns>cat</securityAns>
+    <securityQns>0</securityQns>
+  </account>
+  <account>
+    <username>dd</username>
+    <password>dd</password>
+    <remember>1</remember>
+    <securityAns>dd</securityAns>
+    <securityQns>0</securityQns>
+  </account>
+  <account>
+    <username>Job</username>
+    <password>1234@</password>
+    <remember>1</remember>
+    <securityAns>cat</securityAns>
+    <securityQns>0</securityQns>
+  </account>
+</accounts>

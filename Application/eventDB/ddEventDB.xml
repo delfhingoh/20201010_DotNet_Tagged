@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding">
+  <SOAP-ENV:Body xmlns:lle="http://www.xyz.org/lifelogevents">
+    <lle:Event>
+      <lle:eventID>ID1</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>I go shopping!</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.3505</lle:Lat>
+          <lle:Longi>103.8414</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 8:16:38 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+    <lle:Event>
+      <lle:eventID>ID2</lle:eventID>
+      <lle:Twitter>
+        <lle:Text>testt</lle:Text>
+        <lle:Location>
+          <lle:Lat>1.32</lle:Lat>
+          <lle:Longi>103.8002</lle:Longi>
+        </lle:Location>
+        <lle:DateTime>10/10/2020 8:18:17 PM</lle:DateTime>
+      </lle:Twitter>
+    </lle:Event>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
